@@ -1,0 +1,22 @@
+{
+  "name": "idle-modern",
+  "version": "1.0.0",
+  "description": "User activity timer",
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "vue",
+    "idle",
+    "idle timer",
+    "timer",
+    "activity",
+    "active",
+    "timeout",
+    "session",
+    "session expiration",
+    "session timeout"
+  ],
+  "scripts": {},
+  "author": "Eduard Ilyaskin <ilyaskin1998@gmail.com> (https://github.com/rffensick)",
+  "license": "MIT"
+}
